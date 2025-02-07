@@ -1,5 +1,4 @@
 # Full_Stack_Ecommerce_website
-# Full-Stack E-Commerce Platform
 
 ## Technologies
 - Frontend: React, Tailwind CSS
